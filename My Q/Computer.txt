@@ -1,0 +1,122 @@
+Computer
+20
+What does CPU stand for?
+Central Processing Unit
+Central Process Unit
+Computer Personal Unit
+Central Processor Unit
+1
+Which programming language is known as the language of the web?
+Python
+Java
+C++
+JavaScript
+4
+What does RAM stand for?
+Random Access Memory
+Read Access Memory
+Run Access Memory
+Readily Available Memory
+1
+Which company developed the Java programming language?
+Microsoft
+Apple
+Sun Microsystems
+Google
+3
+What does HTML stand for?
+HyperText Markup Language
+HyperText Markdown Language
+HyperTransfer Markup Language
+HyperTransfer Markdown Language
+1
+What is the primary function of an operating system?
+To manage computer hardware and software resources
+To perform arithmetic operations
+To convert high-level language to machine language
+To store data permanently
+1
+Which of the following is a database management system?
+MySQL
+C
+Python
+Java
+1
+What is the full form of URL?
+Uniform Resource Locator
+Uniform Resource Link
+Unified Resource Locator
+Unified Resource Link
+1
+Which data structure uses LIFO (Last In, First Out) order?
+Queue
+Array
+Stack
+Linked List
+3
+Which of the following is a NoSQL database?
+Oracle
+MySQL
+MongoDB
+PostgreSQL
+3
+What is the main purpose of the primary key in a database?
+To uniquely identify each record
+To index the database
+To establish foreign keys
+To store large objects
+1
+Which protocol is used to transfer web pages over the internet?
+FTP
+HTTP
+SMTP
+SNMP
+2
+In OOP, what does the acronym 'OOP' stand for?
+Object-Oriented Programming
+Object-Oriented Process
+Object-Oriented Procedure
+Object-Oriented Practice
+1
+Which sorting algorithm has the best average time complexity?
+Bubble Sort
+Insertion Sort
+Merge Sort
+Selection Sort
+3
+What is the main difference between TCP and UDP?
+TCP is connection-oriented, UDP is connectionless
+TCP is faster, UDP is slower
+TCP is used for web pages, UDP is used for emails
+TCP uses IP, UDP does not
+1
+What does the acronym 'SQL' stand for?
+Structured Query Language
+Simple Query Language
+Sequential Query Language
+Structured Question Language
+1
+Which command is used to list files in Unix/Linux?
+ls
+list
+show
+dir
+1
+Which type of memory is volatile?
+ROM
+Flash Memory
+Hard Disk
+RAM
+4
+In which language is the Linux kernel written?
+Java
+C
+Python
+C++
+2
+What is the main component of a computer that performs arithmetic and logic operations?
+ALU
+CPU
+GPU
+FPU
+1
