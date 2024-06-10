@@ -1,0 +1,122 @@
+DLD
+20
+What is the primary purpose of digital logic design?
+To design and implement digital circuits and systems
+To perform theoretical research in computer science
+To develop new programming languages
+To study the history of computing
+1
+Which of the following is not a basic logic gate?
+AND
+OR
+NOT
+NAND
+4
+What is the purpose of a truth table in digital logic?
+To represent the logical behavior of a digital circuit
+To perform mathematical calculations
+To design the physical layout of a circuit
+To simulate the timing of a circuit
+1
+Which number system is commonly used in digital logic?
+Binary
+Decimal
+Hexadecimal
+Octal
+1
+What is the main difference between combinational and sequential logic circuits?
+Combinational circuits have no memory, sequential circuits have memory
+Combinational circuits use only AND and OR gates, sequential circuits use flip-flops
+Combinational circuits are simpler to design, sequential circuits are more complex
+There is no difference, they are the same type of logic circuit
+1
+What is the purpose of a multiplexer in digital logic?
+To select one of multiple input signals and route it to the output
+To perform arithmetic operations on digital signals
+To store data in a digital circuit
+To generate clock signals for a digital system
+1
+Which logic gate is known as the "universal gate"?
+AND
+OR
+NAND
+NOR
+3
+What is the main application of a flip-flop in digital logic?
+To store and remember the state of a digital signal
+To perform logical operations on digital signals
+To generate clock signals for a digital system
+To select one of multiple input signals
+1
+What is the purpose of a decoder in digital logic?
+To convert binary information into a specific output
+To perform arithmetic operations on digital signals
+To store data in a digital circuit
+To generate clock signals for a digital system
+1
+Which of the following is not a type of memory used in digital logic?
+RAM
+ROM
+EPROM
+GPU
+4
+What is the main difference between a combinational logic circuit and a sequential logic circuit?
+Combinational circuits have no feedback, sequential circuits have feedback
+Combinational circuits use only AND and OR gates, sequential circuits use flip-flops
+Combinational circuits are simpler to design, sequential circuits are more complex
+There is no difference, they are the same type of logic circuit
+1
+What is the purpose of a counter in digital logic?
+To count and keep track of the number of events or signals
+To perform arithmetic operations on digital signals
+To store data in a digital circuit
+To generate clock signals for a digital system
+1
+Which logic gate is known as the "exclusive OR" gate?
+AND
+OR
+XOR
+NOR
+3
+What is the main application of a shift register in digital logic?
+To shift and store data bits in a digital circuit
+To perform logical operations on digital signals
+To generate clock signals for a digital system
+To select one of multiple input signals
+1
+What is the purpose of a digital-to-analog converter (DAC) in digital logic?
+To convert digital signals into analog signals
+To perform arithmetic operations on digital signals
+To store data in a digital circuit
+To generate clock signals for a digital system
+1
+Which of the following is not a type of logic circuit minimization technique?
+Karnaugh map
+Quine-McCluskey
+Espresso
+Bubble sort
+4
+What is the main difference between a synchronous and an asynchronous digital circuit?
+Synchronous circuits use a clock signal, asynchronous circuits do not
+Synchronous circuits are simpler to design, asynchronous circuits are more complex
+Synchronous circuits have feedback, asynchronous circuits do not
+There is no difference, they are the same type of logic circuit
+1
+What is the purpose of a programmable logic device (PLD) in digital logic?
+To implement custom digital logic circuits
+To perform arithmetic operations on digital signals
+To store data in a digital circuit
+To generate clock signals for a digital system
+1
+Which of the following is not a type of semiconductor device used in digital logic?
+Transistor
+Diode
+Resistor
+Microprocessor
+4
+What is the main application of a finite state machine (FSM) in digital logic?
+To model and implement sequential logic circuits
+To perform logical operations on digital signals
+To store data in a digital circuit
+To generate clock signals for a digital system
+1 

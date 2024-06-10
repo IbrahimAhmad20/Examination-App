@@ -1,0 +1,122 @@
+OS
+20
+What is the primary function of an operating system?
+To manage computer hardware and software resources
+To perform arithmetic operations
+To convert high-level language to machine language
+To store data permanently
+1
+Which of the following is not an operating system?
+Windows
+Linux
+macOS
+Java
+4
+What is the main purpose of a device driver?
+To control a specific hardware device
+To manage memory allocation
+To schedule processes
+To provide a user interface
+1
+Which scheduling algorithm is used by most modern operating systems?
+First-Come, First-Served (FCFS)
+Shortest Job First (SJF)
+Round Robin (RR)
+Multilevel Feedback Queue (MLFQ)
+4
+What is the main difference between a process and a thread?
+A process has its own memory space, while threads share the same memory space
+A thread has its own memory space, while processes share the same memory space
+A process is a part of a thread
+A thread is a part of a process
+1
+Which of the following is not a type of operating system?
+Real-time operating system
+Distributed operating system
+Embedded operating system
+Virtual operating system
+4
+What is the purpose of virtual memory?
+To provide a larger addressable memory space than physical memory
+To increase the speed of memory access
+To protect the operating system from malicious programs
+To store frequently used files
+1
+Which algorithm is used for deadlock avoidance?
+Banker's algorithm
+Round Robin algorithm
+First-Come, First-Served algorithm
+Shortest Job First algorithm
+1
+What is the main purpose of a file system?
+To organize and manage files and directories
+To provide a user interface for interacting with the operating system
+To manage input and output operations
+To allocate memory to processes
+1
+Which of the following is not a component of an operating system?
+Kernel
+Shell
+Compiler
+Device drivers
+3
+What is the purpose of interprocess communication (IPC)?
+To enable processes to exchange data and synchronize their execution
+To manage memory allocation for processes
+To schedule processes for execution
+To handle interrupts from hardware devices
+1
+Which of the following is an example of a CLI (Command Line Interface)?
+Windows Explorer
+Finder
+Terminal
+File Explorer
+3
+What is the main advantage of a microkernel architecture?
+Increased system stability and reliability
+Faster performance
+Easier to develop and maintain
+Better user interface
+1
+Which of the following is not a memory management technique?
+Paging
+Segmentation
+Swapping
+Defragmentation
+4
+What is the purpose of a system call?
+To request a service from the operating system kernel
+To communicate between processes
+To access hardware devices directly
+To compile source code into executable files
+1
+Which of the following is not a function of an operating system?
+Process management
+Memory management
+File management
+Network management
+4
+What is the main purpose of a scheduler in an operating system?
+To allocate CPU time to processes
+To manage memory allocation
+To handle input and output operations
+To provide a user interface
+1
+Which of the following is an example of a real-time operating system?
+Windows
+macOS
+VxWorks
+Android
+3
+What is the main difference between a monolithic kernel and a microkernel?
+A monolithic kernel has all operating system services in a single address space, while a microkernel has them in separate address spaces
+A microkernel has all operating system services in a single address space, while a monolithic kernel has them in separate address spaces
+A monolithic kernel is used for real-time systems, while a microkernel is used for general-purpose systems
+A microkernel is used for real-time systems, while a monolithic kernel is used for general-purpose systems
+1
+Which of the following is not a type of process synchronization mechanism?
+Semaphore
+Mutex
+Monitor
+Interrupt
+4 

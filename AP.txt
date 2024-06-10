@@ -1,0 +1,116 @@
+AP
+20
+What is the primary purpose of the study of applied physics?
+To apply the principles of physics to solve practical problems
+To perform theoretical research in physics
+To develop new mathematical models for physical phenomena
+To study the history of physics
+1
+Which of the following is not a branch of applied physics?
+Optics
+Thermodynamics
+Quantum mechanics
+Aerodynamics
+3
+What is the main principle behind the operation of a simple lever?
+Torque
+Momentum
+Energy conservation
+Newton's laws
+1
+Which physical quantity is measured in Watts?
+Power
+Force
+Pressure
+Acceleration
+1
+What is the purpose of a heat exchanger?
+To transfer thermal energy between two or more fluids
+To generate electricity from thermal energy
+To measure the temperature of a system
+To insulate a system from heat loss
+1
+What is the main application of the photoelectric effect?
+Solar cells
+X-ray imaging
+Optical communication
+Particle accelerators
+1
+Which of the following is not a type of electromagnetic radiation?
+Visible light
+Infrared
+Ultraviolet
+Neutrinos
+4
+What is the principle behind the operation of a simple electric motor?
+Electromagnetic induction
+Electrostatic attraction
+Thermodynamics
+Quantum tunneling
+1
+What is the main purpose of a fluid dynamics analysis?
+To study the behavior of fluids in motion
+To analyze the structure of solids
+To investigate the properties of gases
+To measure the temperature of a system
+1
+Which physical quantity is measured in Pascals?
+Pressure
+Force
+Power
+Energy
+1
+What is the main application of the phenomenon of total internal reflection?
+Optical fibers
+X-ray imaging
+Particle accelerators
+Magnetic resonance imaging
+1
+Which of the following is not a type of energy transfer?
+Conduction
+Convection
+Radiation
+Reflection
+4
+What is the main principle behind the operation of a simple hydraulic system?
+Pascal's principle
+Bernoulli's principle
+Hooke's law
+Ohm's law
+1
+What is the purpose of a semiconductor device?
+To control and manipulate the flow of electric current
+To generate electricity from thermal energy
+To measure the temperature of a system
+To insulate a system from heat loss
+1
+Which physical quantity is measured in Newtons?
+Force
+Power
+Pressure
+Acceleration
+1
+What is the main application of the phenomenon of diffraction?
+Optical imaging
+Electromagnetic communication
+Thermal management
+Structural analysis
+1
+What is the principle behind the operation of a simple heat engine?
+Thermodynamics
+Electromagnetism
+Quantum mechanics
+Fluid dynamics
+1
+Which of the following is not a type of wave motion?
+Longitudinal
+Transverse
+Circular
+Electrical
+4
+What is the main purpose of a structural analysis in applied physics?
+To study the mechanical properties of materials
+To investigate the behavior of fluids
+To analyze the flow of electric current
+To measure the temperature of a system
+1 

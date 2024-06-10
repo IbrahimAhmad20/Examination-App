@@ -1,0 +1,62 @@
+Architecture
+10
+What is the main function of the CPU (Central Processing Unit) in a computer system?
+To store data and programs
+To manage input/output devices
+To control and coordinate the operation of the computer
+To provide power to the computer
+3
+What is the purpose of the memory hierarchy in a computer system?
+To provide different levels of storage capacity and access speed
+To manage the flow of data between the CPU and input/output devices
+To control the execution of software programs
+To allocate resources for multitasking
+1
+Which of the following is not a common type of computer memory?
+A) RAM (Random Access Memory) 
+B) ROM (Read-Only Memory)
+C) Cache Memory
+D) Floppy Disk
+4
+What is the role of the bus in a computer system?
+To connect the CPU to the memory
+To provide a communication pathway between components
+To manage the flow of data between input/output devices
+All of the above
+4
+Which of the following is a characteristic of RISC (Reduced Instruction Set Computer) architecture?
+Complex instruction set
+Variable instruction length
+Pipelining
+Microcode control
+3
+What is the purpose of virtual memory in a computer system?
+To increase the available memory for programs
+To provide faster access to data and instructions
+To manage the allocation of physical memory
+All of the above
+4
+What is the function of the control unit in the CPU?
+To perform arithmetic and logical operations
+To fetch and decode instructions
+To manage the flow of data and control signals
+To provide power to the CPU
+3
+Which of the following is a type of parallel processing architecture?
+Superscalar
+Pipelining
+SIMD (Single Instruction, Multiple Data)
+All of the above
+4
+What is the purpose of caching in a computer system?
+To improve the performance of memory access
+To manage the allocation of physical memory
+To provide a communication pathway between components
+To control the execution of software programs
+1
+Which of the following is a characteristic of the Von Neumann architecture?
+Separate instruction and data memory
+Parallel processing of instructions
+Microcode control
+Single, unified memory for instructions and data
+4

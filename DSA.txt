@@ -1,0 +1,122 @@
+DSA
+20
+What is the primary purpose of a data structure?
+To organize and manage data efficiently
+To perform arithmetic operations
+To convert high-level language to machine language
+To store data permanently
+1
+Which data structure is used to implement a queue?
+Array
+Linked List
+Stack
+Deque
+2
+What is the time complexity of inserting an element at the beginning of a singly linked list?
+O(1)
+O(n)
+O(log n)
+O(n log n)
+1
+Which data structure is used to implement recursion?
+Array
+Linked List
+Stack
+Tree
+3
+What is the main difference between an array and a linked list?
+Arrays have fixed size, linked lists have dynamic size
+Arrays are contiguous in memory, linked lists are not
+Arrays are faster for accessing elements, linked lists are faster for insertion/deletion
+All of the above
+4
+What is the purpose of a binary search tree?
+To store data in a sorted manner
+To perform fast searches
+To implement a priority queue
+All of the above
+4
+What is the time complexity of finding an element in a hash table?
+O(1)
+O(log n)
+O(n)
+O(n log n)
+1
+Which data structure is used to implement a graph?
+Array
+Linked List
+Stack
+Adjacency List/Matrix
+4
+What is the main difference between a min-heap and a max-heap?
+Min-heap stores the smallest element at the root, max-heap stores the largest element at the root
+Min-heap stores the largest element at the root, max-heap stores the smallest element at the root
+Min-heap is used for priority queues, max-heap is used for sorting
+There is no difference, they are the same data structure
+1
+What is the purpose of a trie (prefix tree)?
+To store strings efficiently and perform prefix-based searches
+To implement a priority queue
+To perform fast sorting
+To manage memory allocation
+1
+Which data structure is used to implement a stack?
+Array
+Linked List
+Queue
+Deque
+2
+What is the time complexity of inserting an element at the beginning of a doubly linked list?
+O(1)
+O(n)
+O(log n)
+O(n log n)
+1
+What is the main application of a binary heap?
+Implementing priority queues
+Performing fast searches
+Storing data in a sorted manner
+Implementing recursion
+1
+What is the purpose of a directed graph?
+To represent relationships between objects
+To store data in a sorted manner
+To implement a priority queue
+To perform fast searches
+1
+What is the main difference between a stack and a queue?
+Stacks use LIFO (Last-In-First-Out) order, queues use FIFO (First-In-First-Out) order
+Stacks are used for recursion, queues are used for breadth-first search
+Stacks have dynamic size, queues have fixed size
+There is no difference, they are the same data structure
+1
+What is the purpose of a B-tree?
+To store large amounts of data efficiently and perform fast searches
+To implement a priority queue
+To perform fast sorting
+To manage memory allocation
+1
+What is the time complexity of finding an element in a binary search tree?
+O(1)
+O(log n)
+O(n)
+O(n log n)
+2
+What is the main application of a hash table?
+Implementing dictionaries and associative arrays
+Storing data in a sorted manner
+Implementing priority queues
+Performing fast sorting
+1
+What is the purpose of a disjoint-set data structure (Union-Find)?
+To efficiently maintain a collection of disjoint (non-overlapping) sets
+To implement a priority queue
+To perform fast sorting
+To manage memory allocation
+1
+What is the main difference between a min-heap and a binary search tree?
+Min-heap stores the smallest element at the root, binary search tree stores elements in a sorted order
+Min-heap is used for priority queues, binary search tree is used for fast searches
+Min-heap has better time complexity for insertion and deletion, binary search tree has better time complexity for searching
+There is no difference, they are the same data structure
+1 
