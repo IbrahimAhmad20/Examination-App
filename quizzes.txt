@@ -1,1 +1,6 @@
 Computer.txt
+OS.txt
+DSA.txt
+AP.txt
+DLD.txt
+Architecture.txt
